@@ -1,10 +1,10 @@
 # [CloudFlare Project](http://blog.williams.fyi/cloudflare/)
 
-This is a simple blog demonstration of writing skill for potential internet topics.
+This is a [simple blog](http://blog.williams.fyi/cloudflare/) demonstration of writing skill for potential internet topics.
 
 ## Creator
 
-This demo was created by and is maintained by **[Matthew Williams](https://www.linkedin.com/in/matthewmwilliams/).
+This demo was created by and is maintained by [Matthew Williams](https://www.linkedin.com/in/matthewmwilliams/).
 
 * https://github.com/themattwilliams
 
